@@ -1,0 +1,1 @@
+# EntityFramework-ile-SqlVeritabaninda-Crud-Operasyonlari2
